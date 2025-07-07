@@ -1,4 +1,8 @@
-# YouTube Content Analytics Automation
+# 🎬 Media Workflow Automation 
+Automate YouTube content analysis, AI-based title/CTA scoring, and email reports using free tools like **Zapier**, **Google Sheets**, and **Looker Studio**.
+
+This system saves manual hours and boosts decision-making for content teams in **OTT, YouTube, or digital production houses**.
+
 
 ## Overview
 Automated workflow that monitors YouTube channel performance, processes data through AI analysis, and generates weekly reports for content teams.
