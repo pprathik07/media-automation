@@ -30,7 +30,7 @@ YouTube API → Webhook Processing → Google Sheets → AI Analysis → Email R
 - ✅ Error handling + fallback triggers
 - ✅ Expandable for Instagram/Netflix-style workflows
 
-![image](https://github.com/user-attachments/assets/2904e201-2bcd-45d8-83f0-b1f8dd071913)
+![workflow](https://github.com/user-attachments/assets/65599e77-6059-48b5-a425-1ddfb2a943d4)
 
 
 📞 Contact
