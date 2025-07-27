@@ -37,8 +37,3 @@ YouTube API → Webhook Processing → Google Sheets → AI Analysis → Email R
 ![workflow](https://github.com/user-attachments/assets/65599e77-6059-48b5-a425-1ddfb2a943d4)
 
 
-📞 Contact
-Prathik
-📧 prathik.workflows@gmail.com
-📱 +91 6281253858
-
