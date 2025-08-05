@@ -1,39 +1,50 @@
-# 🎬 Media Workflow Automation 
+# Media Workflow Automation
+
+Automated YouTube content analysis and performance tracking system with AI-powered insights and reporting. Built using no-code tools for media teams and content creators.
 
 ## Overview
 
-Automate YouTube content analysis, AI-based title/CTA scoring, and email reports using free tools like **Zapier**, **Google Sheets**, and **Looker Studio**.
+This system automates the complete YouTube content analysis workflow—from data collection to AI-generated insights and automated reporting. Designed for OTT platforms, YouTube channels, and digital production houses to optimize content strategy without manual effort.
 
-This system saves manual hours and boosts decision-making for content teams in **OTT, YouTube, or digital production houses**.
-
-
-## Workflow Architecture
+## Architecture
 
 ```
 YouTube API → Webhook Processing → Google Sheets → AI Analysis → Email Reports → Dashboard
 ```
 
 ## Features
-- ✅ Auto-fetch video performance metrics (views, likes, comments, engagement)
-- ✅ Real-time data logging to Google Sheets
-- ✅ AI-powered content insights and suggestions
-- ✅ Automated weekly email reports
-- ✅ Live dashboard with Looker Studio
-- ✅ Multi-platform support (YouTube, Instagram, TikTok)
+
+- **Automated Data Collection**: Fetches video metrics (views, likes, comments, engagement rates)
+- **Real-time Processing**: Live data logging to Google Sheets with error handling
+- **AI Content Analysis**: Gemini/Claude API integration for title optimization and CTA scoring
+- **Automated Reporting**: Weekly email reports with actionable insights
+- **Live Dashboard**: Looker Studio integration for real-time performance monitoring
+- **Multi-platform Ready**: Expandable to Instagram, TikTok, and other platforms
+
+## Performance Benefits
+
+- Eliminates manual data collection and analysis
+- Provides AI-driven content optimization suggestions
+- Delivers automated weekly performance reports
+- Scales content strategy decision-making
+- 100% no-code implementation
 
 ## Tech Stack
-- **Automation**: Zapier, Webhooks
+
+- **Automation**: Zapier workflows with webhook triggers
 - **Data Storage**: Google Sheets, Google Apps Script
 - **AI Processing**: Gemini API, Claude API
-- **Reporting**: Gmail, Looker Studio
+- **Visualization**: Looker Studio dashboards
+- **Notifications**: Gmail API for automated reports
 
-## 🚀 Features
-- ✅ Auto-fetch latest YouTube videos & metrics
-- ✅ AI-generated content improvement suggestions
-- ✅ Weekly email reports to content team
-- ✅ Error handling + fallback triggers
-- ✅ Expandable for Instagram/Netflix-style workflows
+## Use Cases
 
-![workflow](https://github.com/user-attachments/assets/65599e77-6059-48b5-a425-1ddfb2a943d4)
+- YouTube channel performance optimization
+- Content team workflow automation
+- Multi-creator analytics consolidation
+- AI-powered content strategy insights
+- Automated competitive analysis tracking
 
+## Implementation
 
+Built entirely with free-tier tools, making it cost-effective for teams of any size. The system includes fallback triggers and error handling for reliable 24/7 operation.
